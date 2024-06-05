@@ -10,7 +10,7 @@ Mini Golf is a game for Windows where the goal is to guide the ball into the hol
 - Mouse wheel: Zoom the camera in free camera mode.
 - ESC: Pause and return to the main menu.
 
-#### Are you ready for the challenge? Get ready for an exciting gameplay experience! ####
-#### The game was created with assets, many hours of work and lines of C# code... ####
+Are you ready for the challenge? Get ready for an exciting gameplay experience!
 
+#### The game was created with assets, many hours of work and lines of C# code... ####
 ### Link to online version: https://play.unity.com/mg/other/webgl-builds-416749 ###
