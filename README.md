@@ -1,4 +1,4 @@
-## Mini Golf ##
+## Mini Golf Game In Unity ##
 
 Mini Golf is a game for Windows where the goal is to guide the ball into the hole using as few strokes as possible. The game features three diverse levels where five players can compete against each other.
 
