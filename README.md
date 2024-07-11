@@ -12,4 +12,4 @@ Mini Golf is a game for Windows where the goal is to guide the ball into the hol
 
 Are you ready for the challenge? Get ready for an exciting gameplay experience!
 #### The game was created with Unity assets, many hours of work and lines of C# code... ####
-### Link to online version: https://play.unity.com/mg/other/webgl-builds-417426](https://play.unity.com/pl/games/d58b3f13-abcc-47ca-b04d-e9b89f02594a/mini-golf ###
+### Link to online version: https://play.unity.com/pl/games/d58b3f13-abcc-47ca-b04d-e9b89f02594a/mini-golf ###
