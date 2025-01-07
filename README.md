@@ -1,15 +1,41 @@
-## Mini Golf Game In Unity ##
+# 🏌️‍♂️ Mini Golf Game in Unity  
 
-Mini Golf is a game for Windows where the goal is to guide the ball into the hole using as few strokes as possible. The game features three diverse levels where five players can compete against each other.
+Mini Golf is an exciting Windows game where your goal is to guide the ball into the hole using as few strokes as possible. Compete against up to five players across three diverse and challenging levels designed to test your skills!  
 
-#### Controls: ####
-- A and D: Rotate the aiming reticle left or right.
-- Space: Control the shot power and execute the shot.
-- Z: Free camera mode.
-- Mouse: Rotate the camera in free camera mode.
-- Mouse wheel: Zoom the camera in free camera mode.
-- ESC: Pause and return to the main menu.
+---
 
-Are you ready for the challenge? Get ready for an exciting gameplay experience!
-#### The game was created with Unity assets, many hours of work and lines of C# code... ####
-### Link to online version: https://play.unity.com/pl/games/d58b3f13-abcc-47ca-b04d-e9b89f02594a/mini-golf ###
+## 🎮 Controls  
+
+- **A and D:** Rotate the aiming reticle left or right.  
+- **Space:** Control the shot power and execute the shot.  
+- **Z:** Free camera mode.  
+- **Mouse:** Rotate the camera in free camera mode.  
+- **Mouse Wheel:** Zoom the camera in free camera mode.  
+- **ESC:** Pause and return to the main menu.  
+
+---
+
+## 🌟 Features  
+
+- **Multiplayer Fun:** Play with up to five players on the same device.  
+- **Three Diverse Levels:** Each course offers a unique design and increasing difficulty.  
+- **Immersive Gameplay:** Smooth camera controls, precise aiming, and realistic physics.  
+
+---
+
+## 🔗 Play Online  
+
+Experience the game online:  
+[**Mini Golf Online Version**](https://play.unity.com/pl/games/d58b3f13-abcc-47ca-b04d-e9b89f02594a/mini-golf)  
+
+---
+
+## 🛠️ Development  
+
+- Created with **Unity** and many hours of dedication.  
+- Features **C# scripts** for physics, interactions, and player controls.  
+- Includes handcrafted levels and mechanics optimized for fun gameplay.  
+
+---
+
+Get ready for the challenge and enjoy an exciting gameplay experience!  
