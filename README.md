@@ -1,5 +1,7 @@
 # 🏌️‍♂️ Mini Golf Game in Unity  
 
+![Miniature](miniature.png)  
+
 Mini Golf is an exciting Windows game where your goal is to guide the ball into the hole using as few strokes as possible. Compete against up to five players across three diverse and challenging levels designed to test your skills!  
 
 ---
@@ -38,4 +40,4 @@ Experience the game online:
 
 ---
 
-Get ready for the challenge and enjoy an exciting gameplay experience!  
+Get ready for the challenge and enjoy an exciting gameplay experience!
